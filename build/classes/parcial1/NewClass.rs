@@ -1,0 +1,3 @@
+parcial1.AlgoritmoProductoMedios$ManejadorCamposTexto
+parcial1.AlgoritmoProductoMedios
+parcial1.NewClass
